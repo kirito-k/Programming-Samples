@@ -17,7 +17,7 @@ Description - Calculate the maximum profit from stock prices data.</br>
 Read "Problem definition stockPrices" file to get started.</br>
 Answer/Support Files - stockPrices.py
 
-### sentenceReverse
+### sentenceReverse -
 Description - Given a list of space seperated characters, return reversed list of words in form of characters.<br>
 Read "Problem definition sentenceReverse" file to get started.</br>
 Answer/Support Files - sentenceReverse.py
