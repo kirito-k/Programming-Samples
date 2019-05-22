@@ -2,7 +2,7 @@
 Codes are written in simplest, well structured and optimal way in Python 3.</br>
 As they say, practice makes man perfect. Lets practice & grow together.
 
-### MinimumInt
+### MinimumInt -
 Description - Write efficient code to find smallest missing integer from array.</br>
 Read "Problem definition MinimumInt" file to get started.</br>
 Answer/Support Files - MinimumInt.py
