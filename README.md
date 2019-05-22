@@ -12,7 +12,7 @@ Description - Find if there exisits a pair of integers in the array, whose sum e
 Read "Problem definition sortedHasSum" file to get started.</br>
 Answer/Support Files - sortedHasSum.py
 
-### stockPrices
+### stockPrices -
 Description - Calculate the maximum profit from stock prices data.</br>
 Read "Problem definition stockPrices" file to get started.</br>
 Answer/Support Files - stockPrices.py
