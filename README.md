@@ -7,7 +7,7 @@ Description - Write efficient code to find smallest missing integer from array.<
 Read "Problem definition MinimumInt" file to get started.</br>
 Answer/Support Files - MinimumInt.py
 
-### sortedHasSum
+### sortedHasSum -
 Description - Find if there exisits a pair of integers in the array, whose sum equals to integer x.</br>
 Read "Problem definition sortedHasSum" file to get started.</br>
 Answer/Support Files - sortedHasSum.py
