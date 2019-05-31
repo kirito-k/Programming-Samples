@@ -23,6 +23,6 @@ Read "Problem definition sentenceReverse" file to get started.</br>
 Answer/Support Files - sentenceReverse.py
 
 ### shortestPath -
-Description - Find shortest path from one point to another in the given grid.<br>
+Description - Find shortest path from one point to another in the given grid<br>
 Read "Problem definition shortestPath" file to get started</br>
 Answer/Support Files - shortestPath.py
