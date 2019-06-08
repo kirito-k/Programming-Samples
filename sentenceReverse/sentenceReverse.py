@@ -2,7 +2,7 @@
     File name: sentenseReverse
     Language: Python3
     Aurhor: Devavrat Kalam
-    Description: Given a list of space seperated characters, return reversed list of words in form of characters.
+    Description: Given a list of space seperated characters, return reversed list of words in form of characters
 """
 
 
