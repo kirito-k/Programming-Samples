@@ -1,6 +1,6 @@
 """
     File name: MinimumInt.py
-    Language: Python 3.x
+    Language: Python 3
     Author name: Devavrat Kalam
     Description: Find smallest positive number(Greater than 1) which is not present in list.
 """
