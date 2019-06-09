@@ -11,8 +11,7 @@ def minimumInt(A):
     x = 1
 
     # dictionary which stored seen integers. It is used for fast lookup
-    seen = {}
-
+    seen = {
     half_size = len(A) // 2
     max_len = len(A)
 
