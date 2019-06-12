@@ -2,7 +2,7 @@
 These are interview Q/A from Top Notch Tech-companies. Codes are written in simplest, well structured and optimal way in Python 3.</br>
 As they say, practice makes man perfect. Lets practice & grow together.
 
-### time_interval -
+### timeInterval -
 Description - Given pairs time intervals (start, end), determine minimum number of classroom required</br>
 Answer - time_interval.py.py
 
