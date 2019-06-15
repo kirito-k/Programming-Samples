@@ -3,7 +3,7 @@ These are interview Q/A from Top Notch Tech-companies. Codes are written in simp
 As they say, practice makes man perfect. Lets practice & grow together!
 
 ### timeInterval -
-Description - Given pairs time intervals (start, end), determine minimum number of classroom required</br>
+Description - Given pairs time intervals (start, end), determine minimum number of classroom required </br>
 Answer - time_interval.py.py
 
 ### maxProfit -
