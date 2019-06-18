@@ -6,6 +6,10 @@ As they say, practice makes man perfect. Lets practice & grow together!
 Description - Convert given string to integer if possible</br>
 Answer - ststring_to_int.py
 
+### count_say -
+Description - Given a specific writing pattern as follows, determine the pattern for given integer</br>
+Answer - count_say.py
+
 ### timeInterval -
 Description - Given pairs time intervals (start, end), determine minimum number of classroom required </br>
 Answer - time_interval.py
