@@ -4,7 +4,7 @@ As they say, practice makes man perfect. Lets practice & grow together!
 
 ### string_to_int -
 Description - Convert given string to integer if possible</br>
-Answer - ststring_to_int.py
+Answer - string_to_int.py
 
 ### count_say -
 Description - Given a specific writing pattern as follows, determine the pattern for given integer</br>
