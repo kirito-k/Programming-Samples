@@ -2,11 +2,11 @@
 These are interview Q/A from Top Notch Tech-companies. Codes are written in simplest, well structured and optimal way in Python 3.</br>
 As they say, practice makes man perfect. Lets practice & grow together!
 
-### string_to_int -
+### string_to_int (LeetCode #8) -
 Description - Convert given string to integer if possible</br>
 Answer - string_to_int.py
 
-### count_say (LeetCode #38)-
+### count_say (LeetCode #38) -
 Description - Given a specific writing pattern as follows, determine the pattern for given integer</br>
 Answer - count_say.py
 
