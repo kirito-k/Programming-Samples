@@ -6,7 +6,7 @@ As they say, practice makes man perfect. Lets practice & grow together!
 Description - Convert given string to integer if possible</br>
 Answer - string_to_int.py
 
-### count_say -
+### count_say (LeetCode #38)-
 Description - Given a specific writing pattern as follows, determine the pattern for given integer</br>
 Answer - count_say.py
 
