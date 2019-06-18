@@ -8,7 +8,7 @@ Answer - ststring_to_int.py
 
 ### timeInterval -
 Description - Given pairs time intervals (start, end), determine minimum number of classroom required </br>
-Answer - time_interval.py.py
+Answer - time_interval.py
 
 ### maxProfit -
 Description - Compute maximum profit from a single valid transaction(buy first and sell later) from given array</br>
