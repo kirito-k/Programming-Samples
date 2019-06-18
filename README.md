@@ -1,4 +1,4 @@
-## Programming Samples 
+## Programming Samples
 These are interview Q/A from Top Notch Tech-companies. Codes are written in simplest, well structured and optimal way in Python 3.</br>
 As they say, practice makes man perfect. Lets practice & grow together!
 
@@ -34,7 +34,7 @@ Read "Problem definition stockPrices" file to get started.</br>
 Answer - stockPrices.py
 
 ### sentenceReverse -
-Description - Given a list of space seperated characters, return reversed list of words in form of characters.<br>
+Description - Given a list of space seperated characters, return reversed list of words in form of characters<br>
 Read "Problem definition sentenceReverse" file to get started.</br>
 Answer - sentenceReverse.py
 
