@@ -14,6 +14,10 @@ Answer - count_say.py
 Description - Given pairs time intervals (start, end), determine minimum number of classroom required </br>
 Answer - time_interval.py
 
+### GOT 1 -
+Description - Find if anagram of a string can be palindrome</br>
+Answer - GOT.py
+
 ### maxProfit -
 Description - Compute maximum profit from a single valid transaction(buy first and sell later) from given array</br>
 Answer - maxProfit.py
