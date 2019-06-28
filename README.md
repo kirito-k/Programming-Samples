@@ -14,6 +14,10 @@ Answer - string_to_int.py
 Description - Given a specific writing pattern as follows, determine the pattern for given integer</br>
 Answer - count_say.py
 
+### parenthesis (LeetCode #1021) -
+Description - Return a string removing the outermost parenthesis from every bracket.</br>
+Answer - parenthesis.py
+
 ### timeInterval -
 Description - Given pairs time intervals (start, end), determine minimum number of classroom required </br>
 Answer - time_interval.py
