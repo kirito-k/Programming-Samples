@@ -6,6 +6,10 @@ As they say, practice makes man perfect. Lets practice & grow together.
 Description - Search a number in 2D matrix.</br>
 Answer - search_2D_2.py
 
+### search_2D_2 (LeetCode #240) -
+Description - Search a number in 2D matrix.</br>
+Answer - search_2D_2.py
+
 ### simplify_path (LeetCode #71) -
 Description - Simplify the complex path string given into something linux terminal friendly command.</br>
 Answer - simplify_path.py
