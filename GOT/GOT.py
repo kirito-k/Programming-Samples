@@ -3,11 +3,11 @@
     Authod: Devavrat Kalam
     Language: Python 3.x
     Description: Find if anagram of a string can be palindrome
-    Time Complexity: O( n )
+    Time Complexity: O(n)
 """
 
 
-def gameOfThrones(s):
+def gameOfThrones(s: str) -> str:
     """
     Determine if any anagrams of s can be a palindrome
     :param s: string
