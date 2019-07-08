@@ -7,8 +7,7 @@ Description - Search a number in 2D matrix.</br>
 Answer - search_2D_2.py
 
 ### fill_water -
-Description - In given array representing wall hights, determine how much water
-                 can be trapped between two walls</br>
+Description - In given array representing wall hights, determine how much water can be trapped between two walls</br>
 Answer - fill_water.py
 
 ### simplify_path (LeetCode #71) -
