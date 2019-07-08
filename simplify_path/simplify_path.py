@@ -23,9 +23,9 @@ class Solution:
 def main():
     # Testcases
     s = '/a/./c////.././/../..'
-    s = ''
-    s = '.././/../..'
-    s = 'a/b/c/d'
+    # s = ''
+    # s = '.././/../..'
+    # s = 'a/b/c/d'
 
     sl = Solution()
     print(sl.simplifyPath(s))
