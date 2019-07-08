@@ -5,6 +5,7 @@
     Description: Given pairs time intervals (start, end), determine minimum number of classroom required
     Time Complexity: O(n log(n))
 """
+from typing import List, Tuple
 
 
 def time_interval(intervals: List[Tuple[int, int]]) -> int:
@@ -40,6 +41,7 @@ def time_interval(intervals: List[Tuple[int, int]]) -> int:
     max_rooms = max(max_rooms, current_rooms)
     return max_rooms
 
+
 def main():
     # Test cases:
     intervals = [
@@ -54,6 +56,7 @@ def main():
     # intervals = []
 
     print(time_interval(intervals))
+
 
 if __name__ == '__main__':
     main()
