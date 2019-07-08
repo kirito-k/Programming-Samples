@@ -30,8 +30,8 @@ def get_max_profit(stock):
 if __name__ == '__main__':
     # Test cases:
     a = [10, 7, 5, 8, 11, 9]
-    b = [0,0,0]
-    c = [1,2,3,4,5]
-    d = [5,4,3,2,1]
-    e = [5]
-    print(get_max_profit(b))
+    # a = [0,0,0]
+    # a = [1,2,3,4,5]
+    # a = [5,4,3,2,1]
+    # a = [5]
+    print(get_max_profit(a))
