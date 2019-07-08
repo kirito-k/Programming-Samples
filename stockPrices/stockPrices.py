@@ -4,9 +4,10 @@
     Author: Devavrat Kalam
     Description: Calculate the maximum profit from stock prices data
 """
+from typing import List
 
 
-def get_max_profit(stock):
+def get_max_profit(stock: List[int]) -> int:
     # If there are no two stock prices, we cannot buy and sell
     if len(stock) < 2:
         raise ValueError("Not enough data to calculate profit.")
@@ -16,7 +17,7 @@ def get_max_profit(stock):
     # Initial profit
     profit = stock[1] - minval
 
-    for index in range(1,len(stock)):
+    for index in range(1, len(stock)):
         currprice = stock[index]
 
         # Calculate profit
@@ -26,6 +27,7 @@ def get_max_profit(stock):
         minval = min(minval, currprice)
 
     return profit
+
 
 if __name__ == '__main__':
     # Test cases:
