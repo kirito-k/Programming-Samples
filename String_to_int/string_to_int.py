@@ -10,7 +10,7 @@
                 if None of the above, return 0
 """
 
-def myAtoi(str):
+def myAtoi(str: str) -> int:
     """
     Convert given string to int if possible
     :param str: string
