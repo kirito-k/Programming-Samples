@@ -7,7 +7,7 @@
 """
 
 
-def time_interval(intervals):
+def time_interval(intervals: List[Tuple[int, int]]) -> int:
     """
     Find minimum number of rooms need
     :param intervals: list of pairs of start and end times
