@@ -4,9 +4,10 @@
     Aurhor: Devavrat Kalam
     Description: Given a list of space seperated characters, return reversed list of words in form of characters
 """
+from typing import List
 
 
-def reverse_words(arr):
+def reverse_words(arr: List[str]) -> str:
     answer = []
     start = None
 
