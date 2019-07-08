@@ -13,7 +13,7 @@
                 pattern for n = 2 is 11. Thus it is two times 1. Answer = 21
 """
 
-def countSay(n):
+def countSay(n:int) -> str:
     """
     Find the pattern for n'th number
     :param n: Integer number
