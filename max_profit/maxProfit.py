@@ -5,9 +5,9 @@
     Description: Compute maximum profit from a single valid transaction(buy first and sell later) from given array
     Time Complexity: O(n)
 """
+from typing import List
 
-
-def maxProfit(arr):
+def maxProfit(arr: List[int]) -> int:
     """
     Compute the maximum profit
     :param arr: arr of integers
