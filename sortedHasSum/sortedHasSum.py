@@ -5,9 +5,10 @@
     Description: In given sorted array, find if a pair exists whose sum is equal to given number x, in O(n).
                  No hash data structures allowed.
 """
+from typing import List
 
 
-def sortedHasSum(s, x):
+def sortedHasSum(s: List[int], x: int) -> bool:
     low = 0
     high = len(s)-1
 
