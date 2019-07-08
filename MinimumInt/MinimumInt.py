@@ -4,9 +4,9 @@
     Author name: Devavrat Kalam
     Description: Find smallest positive number(Greater than 1) which is not present in list.
 """
+from typing import List
 
-
-def minimumInt(A):
+def minimumInt(A: List[int]) -> int:
     # start of array
     x = 1
 
