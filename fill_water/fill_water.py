@@ -6,9 +6,9 @@
                  can be trapped between two walls(not the end of array doesn't indicate its a wall).
     TimeComplexity: O(n)
 """
+from typing import List
 
-
-def capacity(arr):
+def capacity(arr: List[int]) -> int:
     n = len(arr)
     left_maxes = [0 for _ in range(n)]
     right_maxes = [0 for _ in range(n)]
