@@ -26,6 +26,10 @@ Answer - string_to_int.py
 Description - Given a specific writing pattern as follows, determine the pattern for given integer</br>
 Answer - count_say.py
 
+### two_cities (LeetCode #1029) -
+Description - Given 2D array find the minimum cost for flights to reach A and B cities equally</br>
+Answer - two_cities.py
+
 ### parenthesis (LeetCode #1021) -
 Description - Return a string removing the outermost parenthesis from every bracket.</br>
 Answer - parenthesis.py
