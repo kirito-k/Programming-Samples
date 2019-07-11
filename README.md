@@ -3,7 +3,7 @@ These are interview Q/A from Top Notch Tech-companies. Codes are written in simp
 As they say, practice makes man perfect. Lets practice & grow together.
 
 ### search_2D_2 (LeetCode #240) -
-Description - Search a number in 2D matrix.</br>
+Description - Search a number in 2D matrix</br>
 Answer - search_2D_2.py
 
 ### powerful_int (LeetCode #970) -
