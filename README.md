@@ -6,6 +6,10 @@ As they say, practice makes man perfect. Lets practice & grow together.
 Description - Given n non-negative integers representing walls, find most water that can be contained</br>
 Answer - max_water.py
 
+### validSudoku (LeetCode #36) -
+Description - Determine if a 9x9 Sudoku board is valid.</br>
+Answer - validSudoku.py
+
 ### search_2D_2 (LeetCode #240) -
 Description - Search a number in 2D matrix</br>
 Answer - search_2D_2.py
