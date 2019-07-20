@@ -11,7 +11,7 @@ Description - Determine if a 9x9 Sudoku board is valid.</br>
 Answer - validSudoku.py
 
 ### search_2D_2 (LeetCode #240) -
-Description - Search a number in 2D matrix</br>
+Description - Search a number in 2D matrix.</br>
 Answer - search_2D_2.py
 
 ### powerful_int (LeetCode #970) -
