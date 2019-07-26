@@ -3,7 +3,7 @@ These are interview Q/A from Top Notch Tech-companies. Codes are written in simp
 As they say, practice makes man perfect. Lets practice & grow together.
 
 ### max_water (LeetCode #11) -
-Description - Given n non-negative integers representing walls, find most water that can be contained</br>
+Description - Given n non-negative integers representing walls, find most water that can be contained.</br>
 Answer - max_water.py
 
 ### validSudoku (LeetCode #36) -
