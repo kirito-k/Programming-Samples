@@ -15,7 +15,7 @@ Description - Search a number in 2D matrix.</br>
 Answer - search_2D_2.py
 
 ### powerful_int (LeetCode #970) -
-Description - Given x, y, bound, find out which of the numbers formed by x^i + y^j which are less than equal to bound.</br>
+Description - Given x, y, bound, find out which of the numbers formed by x^i + y^j which are less than equal to bound</br>
 Answer - powerful_int.py
 
 ### fill_water -
