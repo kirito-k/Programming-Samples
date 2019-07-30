@@ -7,7 +7,7 @@ Description - Given n non-negative integers representing walls, find most water 
 Answer - max_water.py
 
 ### validSudoku (LeetCode #36) -
-Description - Determine if a 9x9 Sudoku board is valid</br>
+Description - Determine if a 9x9 Sudoku board is valid.</br>
 Answer - validSudoku.py
 
 ### search_2D_2 (LeetCode #240) -
