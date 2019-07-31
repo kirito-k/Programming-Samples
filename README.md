@@ -1,5 +1,5 @@
 ## Programming Samples
-These are interview Q/A from Top Notch Tech-companies. Codes are written in simplest, well structured and optimal way in Python 3</br>
+These are interview Q/A from Top Notch Tech-companies. Codes are written in simplest, well structured and optimal way in Python 3.</br>
 As they say, practice makes man perfect. Lets practice & grow together.
 
 ### max_water (LeetCode #11) -
