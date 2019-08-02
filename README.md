@@ -19,7 +19,7 @@ Description - Given x, y, bound, find out which of the numbers formed by x^i + y
 Answer - powerful_int.py
 
 ### fill_water -
-Description - In given array representing wall hights, determine how much water can be trapped between two walls</br>
+Description - In given array representing wall hights, determine how much water can be trapped between two walls.</br>
 Answer - fill_water.py
 
 ### simplify_path (LeetCode #71) -
