@@ -4,7 +4,7 @@ As they say, practice makes man perfect. Lets practice & grow together.
 
 ### compare_strings (Google interview) -
 Description - Compare strings based on their alphabetically first character's frequencies.</br>
-Answer - max_water.py
+Answer - compare_strings.py
 
 ### max_water (LeetCode #11) -
 Description - Given n non-negative integers representing walls, find most water that can be contained.</br>
