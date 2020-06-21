@@ -1,6 +1,7 @@
 ## Programming Samples
 These are interview Q/A from Top Notch Tech-companies. Codes are written in simplest, well structured and optimal way in Python 3.</br>
-As they say, practice makes man perfect. Lets practice & grow together.
+As they say, practice makes man perfect. 
+Let's practice & grow together.
 
 ### compare_strings (Google interview) -
 Description - Compare strings based on their alphabetically first character's frequencies.</br>
